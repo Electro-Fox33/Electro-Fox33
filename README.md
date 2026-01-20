@@ -1,45 +1,51 @@
 <p align="center">
-  <img src="descarga.gif" width="200"/>
+  <img src="totoro green notion wallpaper header.jpg"/>
 </p>
 
 # Hi, I'm Lali 🌱💻
  
-
 ✨ Computer Engineering student at FIUBA  
-🪴 Plant lover & code grower  
+🪴 Plant lover & gentle coder  
 💚 Curious, calm and always learning  
 
 ---
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7C9A6D&lines=Computer+Engineering+Student;Plant+Lover+%F0%9F%8C%B1)
+
 ### 🌿 About me
 
-I'm an enthusiastic person, passionate about:
-- Programming and problem solving  
-- Robotics and systems  
-- Designing things with passion and care  
+I'm a calm and curious person who enjoys growing both personally and professionally.
 
-I believe code grows better when you take care of it — just like plants 🌱  
+I love:
+- Programming and solving logical challenges  
+- Robotics and systems  
+- Puzzles, riddles and strategy games  
+- Reading, music and anime  
+- Designing things with care and intention  
+
+I try to keep a healthy balance between screens and nature 🌱  
+Learning new things on my own is one of my favorite ways to grow.
+I believe in slow growth, deep breathing, and building things with time and patience ✨
 
 ---
 
 ### 🛠️ Technologies
 
-- Python  
-- C / C++  
-- Git & GitHub  
-- Bash
+<p align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Electro-Fox33&layout=compact&theme=leaf&hide_border=true)
+Python • C • C++ • Java • Git & GitHub • Bash
+
+</p>
+
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Electro-Fox33&layout=compact&theme=chartreuse-dark&hide_border=true)-->
 
 ---
 
 ### 📊 GitHub garden stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Electro-Fox33&show_icons=true&theme=leaf&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Electro-Fox33&show_icons=true&theme=chartreuse-dark&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Electro-Fox33&theme=chartreuse-dark&hide_border=true)
 
-![visitors](https://komarev.com/ghpvc/?username=Electro-Fox33&color=7C9A6D)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7C9A6D&lines=Computer+Engineering+Student;Plant+Lover+%F0%9F%8C%B1)
 
 ---
 ### 🌐 Connect with me
@@ -49,9 +55,7 @@ I believe code grows better when you take care of it — just like plants 🌱
 
 ### ✨ Motto
 
-> *“Grow slowly, code gently, learn deeply.”* 🌿  
-
-Thanks for visiting my little code garden 💚
+> *“Grow slowly, code gently, learn deeply.”* 🌿
 <p align="center">
-  <img src="360_F_769409709_PjhFP5bP2AZVJinAEE4tAVKNkQVhQMpH.webp" width="200"/>
+  <img src="360_F_769409709_PjhFP5bP2AZVJinAEE4tAVKNkQVhQMpH.webp"/>
 </p>
