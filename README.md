@@ -3,18 +3,12 @@
 </p>
 
 # Hi, I'm Lali 🌱💻
- 
-✨ Computer Engineering student at FIUBA  
-🪴 Plant lover & gentle coder  
-💚 Curious, calm and always learning  
-
----
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7C9A6D&lines=Computer+Engineering+Student;Plant+Lover+%F0%9F%8C%B1)
 
 ### 🌿 About me
 
-I'm a calm and curious person who enjoys growing both personally and professionally.
+I'm a calm and curious person who enjoys growing both personally and professionally.🪴
 
 I love:
 - Programming and solving logical challenges  
