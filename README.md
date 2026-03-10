@@ -37,10 +37,10 @@ Python • C • C++ • Java • Git & GitHub • Bash
 
 ### 📊 GitHub garden stats
 
-<!--![](https://github-readme-stats.vercel.app/api?username=Electro-Fox33&show_icons=true&theme=chartreuse-dark&hide_border=true)-->
+![](https://github-readme-stats.vercel.app/api?username=Electro-Fox33&show_icons=true&theme=chartreuse-dark&hide_border=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Electro-Fox33&theme=chartreuse-dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=Electro-Fox33&layout=compact&langs_count=6&theme=chartreuse-dark) 
+![Top Langs](https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=Electro-Fox33&layout=compact&langs_count=6&theme=blue-green) 
    
 
 
