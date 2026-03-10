@@ -41,11 +41,10 @@ Python • C • C++ • Java • Git & GitHub • Bash
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Electro-Fox33&theme=chartreuse-dark&hide_border=true)
 
 ![Top Langs](https://github-readme-stats-mjsk7pldc-electro-fox33s-projects.vercel.app/api/top-langs/?username=Electro-Fox33&count_private=true&layout=compact&langs_count=6&theme=chartreuse-dark&hide_border=true)
-   
-
 
 
 ---
+
 ### 🌐 Connect with me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lalii_maciel/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/laura-maciel-271bba265/)
 
