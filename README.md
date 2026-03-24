@@ -27,7 +27,7 @@ I believe in slow growth, deep breathing, and building things with time and pati
 
 <p align="center">
 
-Python • C • C++ • Java • Git & GitHub • Bash
+Python • C • C++ • Java • Git & GitHub • Bash Rust
 
 </p>
 
@@ -60,6 +60,7 @@ Python • C • C++ • Java • Git & GitHub • Bash
 ---
 
 ### ✨ Motto
+hola easter egg para continuar racha
 
 > *“Grow slowly, code gently, learn deeply.”* 🌿
 <p align="center">
