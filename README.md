@@ -27,7 +27,7 @@ I believe in slow growth, deep breathing, and building things with time and pati
 
 <p align="center">
 
-Python • C • C++ • Java • Git & GitHub • Bash Rust
+Python • C • C++ • Java • Git & GitHub • Bash • Rust
 
 </p>
 
@@ -42,15 +42,12 @@ Python • C • C++ • Java • Git & GitHub • Bash Rust
   ![](https://github-readme-stats.vercel.app/api?username=Electro-Fox33&show_icons=true&theme=chartreuse-dark&hide_border=true)
   ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Electro-Fox33&theme=chartreuse-dark&hide_border=true)
   <p aling="center">
-
-  ![Top Langs](https://github-readme-stats-ochre-alpha-94.vercel.app/api/top-langs/?username=Electro-Fox33&count_private=true&layout=compact&langs_count=6&theme=chartreuse-dark&hide_border=true)
+    ![Top Langs](https://github-readme-stats-ochre-alpha-94.vercel.app/api/top-langs/?username=Electro-Fox33&count_private=true&layout=compact&langs_count=6&theme=chartreuse-dark&hide_border=true)
   </p>
 </div>
 <div align="center"> 
-  
   ![Electro-Fox33's github stat](https://komarev.com/ghpvc/?username=Electro-Fox33)
-  
-  </div>
+</div>
 
 ---
 
@@ -60,7 +57,6 @@ Python • C • C++ • Java • Git & GitHub • Bash Rust
 ---
 
 ### ✨ Motto
-hola easter egg para continuar racha
 
 > *“Grow slowly, code gently, learn deeply.”* 🌿
 <p align="center">
