@@ -39,10 +39,10 @@ Python • C • C++ • Java • Git & GitHub • Bash • Rust
 
 <div align="center">
   
-  ![](https://github-readme-stats.vercel.app/api?username=Electro-Fox33&show_icons=true&theme=chartreuse-dark&hide_border=true)
+  ![](https://github-stats-extended-frontend-eight.vercel.app/api?username=Electro-Fox33&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true)
   ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Electro-Fox33&theme=chartreuse-dark&hide_border=true)
   
-  ![Top Langs](https://github-readme-stats-ochre-alpha-94.vercel.app/api/top-langs/?username=Electro-Fox33&count_private=true&layout=compact&langs_count=6&theme=chartreuse-dark&hide_border=true)
+  ![Top Langs](https://github-stats-extended-frontend-eight.vercel.app/api/top-langs/?username=Electro-Fox33&count_private=true&layout=compact&langs_count=6&theme=chartreuse-dark&hide_border=true)
 </div>
 <div align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Electro-Fox33" alt="Electro-Fox33's github stat"/>
